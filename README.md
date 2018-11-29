@@ -2,13 +2,13 @@ Mycroft [![Build Status](https://travis-ci.org/MycroftAI/mycroft-core.svg?branch
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 ==========
 
-Mycroft is a hackable open source voice assistant.
+Mycroft это взламываемый голосовой помощник с открытым исходным кодом.
 
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Getting Started](#getting-started)
-- [Running Mycroft](#running-mycroft)
+- [Содержание](#table-of-contents)
+- [Подготовка к работе](#getting-started)
+- [Запуск Mycroft](#running-mycroft)
 - [Using Mycroft](#using-mycroft)
   * [*Home* Device and Account Manager](#home-device-and-account-manager)
   * [Skills](#skills)
