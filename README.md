@@ -2,7 +2,7 @@ Mycroft [![Build Status](https://travis-ci.org/MycroftAI/mycroft-core.svg?branch
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 ==========
 
-Mycroft это взламываемый голосовой помощник с открытым исходным кодом.
+Mycroft это доступный для взлома и изучения голосовой помощник с открытым исходным кодом.
 
 # Table of Contents
 
@@ -11,8 +11,8 @@ Mycroft это взламываемый голосовой помощник с �
 - [Запуск Mycroft](#running-mycroft)
 - [Using Mycroft](#using-mycroft)
   * [*Home* Device and Account Manager](#home-device-and-account-manager)
-  * [Skills](#skills)
-- [Behind the scenes](#behind-the-scenes)
+  * [Навыки](#skills)
+- [За кулисами](#behind-the-scenes)
   * [Pairing Information](#pairing-information)
   * [Configuration](#configuration)
   * [Using Mycroft Without Home](#using-mycroft-without-home)
@@ -134,13 +134,13 @@ $ export no_proxy="localhost,127.0.0.1,localaddress,.localdomain.com,0.0.0.0,::1
 This is an open source project and we would love your help. We have prepared a [contributing](.github/CONTRIBUTING.md) guide to help you get started.
 
 If this is your first PR or you're not sure where to get started,
-say hi in [Mycroft Chat](https://chat.mycroft.ai/) and a team member would be happy to mentor you.
-Join the [Mycroft Forum](https://community.mycroft.ai/) for questions and answers.
+say hi in [Mycroft чат](https://chat.mycroft.ai/) and a team member would be happy to mentor you.
+Join the [Mycroft форум](https://community.mycroft.ai/) for questions and answers.
 
 # Links
-* [Creating a Skill](https://docs.mycroft.ai/skill.creation)
+* [Создание навыка](https://docs.mycroft.ai/skill.creation)
 * [Documentation](https://docs.mycroft.ai)
 * [Release Notes](https://github.com/MycroftAI/mycroft-core/releases)
-* [Mycroft Chat](https://chat.mycroft.ai)
-* [Mycroft Forum](https://community.mycroft.ai)
-* [Mycroft Blog](https://mycroft.ai/blog)
+* [Mycroft чат](https://chat.mycroft.ai)
+* [Mycroft форум](https://community.mycroft.ai)
+* [Mycroft Блог](https://mycroft.ai/blog)
