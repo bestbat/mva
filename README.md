@@ -14,14 +14,14 @@ Mycroft это доступный для взлома и изучения гол
   * [Навыки](#skills)
 - [За кулисами](#behind-the-scenes)
   * [Pairing Information](#pairing-information)
-  * [Configuration](#configuration)
+  * [Конфигурация](#configuration)
   * [Using Mycroft Without Home](#using-mycroft-without-home)
   * [API Key Services](#api-key-services)
   * [Using Mycroft behind a proxy](#using-mycroft-behind-a-proxy)
     + [Using Mycroft behind a proxy without authentication](#using-mycroft-behind-a-proxy-without-authentication)
     + [Using Mycroft behind an authenticated proxy](#using-mycroft-behind-an-authenticated-proxy)
 - [Getting Involved](#getting-involved)
-- [Links](#links)
+- [Ссылки](#links)
 
 # Getting Started
 
@@ -143,4 +143,4 @@ Join the [Mycroft форум](https://community.mycroft.ai/) for questions and a
 * [Release Notes](https://github.com/MycroftAI/mycroft-core/releases)
 * [Mycroft чат](https://chat.mycroft.ai)
 * [Mycroft форум](https://community.mycroft.ai)
-* [Mycroft Блог](https://mycroft.ai/blog)
+* [Mycroft блог](https://mycroft.ai/blog)
