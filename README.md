@@ -2,7 +2,7 @@ Mycroft [![Build Status](https://travis-ci.org/MycroftAI/mycroft-core.svg?branch
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 ==========
 
-Mycroft это доступный для взлома и изучения голосовой помощник с открытым исходным кодом.
+Mycroft это доступный для хакинга и изучения голосовой помощник с открытым исходным кодом.
 
 # Table of Contents
 
